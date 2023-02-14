@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    width: fit-content;
+   margin: auto;
+    color: white;
+    font-size: large;
+    background-color: rgb(146, 28, 28);
+    text-decoration: double;
+    border: solid 5px black;
+    border-radius: 50px;
+}
